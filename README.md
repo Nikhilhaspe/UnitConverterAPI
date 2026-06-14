@@ -1,5 +1,21 @@
 # 🚀 Unit Conversion API
 
+## 📘 Important
+
+Before running or testing the application, please review the **`API_DOCUMENTATION.md`** file included with the project.
+
+This document contains:
+
+* Complete API endpoint documentation
+* Request and response payload examples
+* Supported conversion categories and units
+* Error response formats
+* Batch conversion usage examples
+
+Reading the documentation first will help you understand the API contract and quickly get started with testing and integration.
+
+---
+
 ## 📄 Description of the Solution
 
 This is a high-performance, production-ready **Unit Conversion API** built natively with modern **.NET 9**. It serves as an ultra-fast, lightweight engine designed to handle standard unit conversions (such as Length and Weight) alongside formula-based calculations (like Temperature) instantly.
