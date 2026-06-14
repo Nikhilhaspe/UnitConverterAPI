@@ -1,0 +1,27 @@
+{
+    "length":{
+        "displayName": "Length",
+        "baseUnit": "meter",
+        "units": {
+            "meter": 1,
+            "kilometer": 1000,
+            "foot": 0.3048,
+            "inch": 0.0254
+        }
+    },
+    "weight":{
+        "displayName": "Weight",
+        "baseUnit": "gram",
+        "units": {
+            "gram": 1,
+            "kilogram": 1000,
+            "pound": 453.59237,
+            "ounce": 28.3495
+        }
+    },
+    "temperature":{
+        "displayName": "Temperature",
+        "baseUnit": "kelvin",
+        "type": "temperature"
+    }
+}
